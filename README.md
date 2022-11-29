@@ -1,2 +1,2 @@
 # Sentiment Analysis Arabic
-![image](https://github.com/AbdelrahmanShahrour/ArabicMemes/blob/main/cover.png?raw=true)
+![image](https://github.com/AbdelrahmanShahrour/sentiment_analysis_arabic/blob/master/CoverTweets.png?raw=true)
